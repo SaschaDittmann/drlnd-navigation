@@ -130,3 +130,15 @@ dmypy.json
 
 # Azure ML
 .azureml/
+
+# Project
+Banana.app/
+Banana_Windows_x86/
+Banana_Windows_x86_64/
+Banana_Linux/
+Banana_Linux_NoVis/
+VisualBanana.app/
+VisualBanana_Windows_x86/
+VisualBanana_Windows_x86_64/
+VisualBanana_Linux/
+VisualBanana_Linux_NoVis/
